@@ -12,7 +12,7 @@ tags:
 
 {{< toc hide_on="xl" >}}
 
-## What you will learn
+## What you will learn1
 
 - Fundamental {{<hl>}}Python programming skills{{</hl>}}
 - {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
