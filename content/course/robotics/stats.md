@@ -16,7 +16,7 @@ Introduction to statistics for data science.
 
 ## Learn
 
-The general form of the **normal** probability density function is:
+The general danas form of the **normal** probability density function is:
 
 $$
 f(x) = \frac{1}{\sigma \sqrt{2\pi} } e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2}
